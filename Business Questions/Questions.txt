@@ -1,0 +1,8 @@
+You are a Data Analyst for X Hospital; Your stakeholders would like to know the following from their data :
+
+1. Total discharges 
+2. Avg Daily Discharge Rate 
+3. Avg len of stay 
+4. Distribution of Discharges by age group 
+5. Distribution of Discharges by gender 
+6. Distribution of Discharges by day of the week.
